@@ -1,0 +1,15 @@
+reward function:
+	one of one hundred
+
+generating function trees:
+	number of variables
+	complexity
+
+genetic algorithm:
+	crossover
+	mutation
+
+creating population:
+	f1(y1) + f2(y2, y3) - f3(y1,y2) = x
+
+
